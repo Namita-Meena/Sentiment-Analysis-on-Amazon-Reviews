@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Amazon-Reviews
-HOW TO RUN
+##HOW TO RUN
 Step 1: Clone the repository
 
 git clone https://github.com/Surbhit01/Amazon-Alexa-Reviews.git
